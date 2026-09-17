@@ -1,11 +1,22 @@
-# Inferência Estatística
-Trabalho de Inferência Estatística referente a primeira prova.
 # AV1 — Introdução à Inferência I
 
 Estudo de Monte Carlo comparando o **Estimador de Máxima Verossimilhança (EMV)** e o
 **Estimador de Momentos (EMM)** dos parâmetros da distribuição **Lomax(α, λ)**.
 
 Universidade Federal do Amazonas — Prof. Jeremias
+
+---
+
+## Grupo 1
+
+| Integrante | Matrícula |
+|---|---|
+| Antonio Delival Rebelo Cardoso | 22401699 |
+| Henrique Gabriel Viana da Silva | 22401707 |
+| Juan Victor Sequeira | 22401705 |
+| Larissa Rafaela Ribeiro de Souza | 22401702 |
+| Ramon Falcão de Souza Oliveira | 22401703 |
+| Ronaldo Rodrigues Soares | 22052636 |
 
 ---
 
@@ -67,6 +78,17 @@ Ou, sem o arquivo de requisitos:
 ```bash
 pip install numpy scipy pandas matplotlib
 ```
+
+Conteúdo de `requirements.txt`:
+
+```
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.8
+```
+
+---
 
 ## 4. Executar
 
